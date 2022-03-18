@@ -159,7 +159,7 @@ btnCreate.addEventListener('click', () => {
     newPassword.value = ''
     newEmail.value = '';
     newPhone.value = '';
-    newRoles.options.selectedIndex = -1;
+    newRoles.options.selectedIndex = 1;
 });
 
 
